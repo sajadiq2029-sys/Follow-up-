@@ -1,0 +1,28 @@
+
+{
+  "short_name": "فالو عراق",
+  "name": "فالو عراق - Falo Iraq Premium",
+  "description": "منصة عراقية احترافية لزيادة المتابعين والتفاعل الاجتماعي مع لوحة تحكم متكاملة ونظام نقاط ذكي.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3955/3955024.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3955/3955024.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "theme_color": "#4f46e5",
+  "background_color": "#0a051d",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}

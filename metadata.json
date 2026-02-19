@@ -1,0 +1,8 @@
+{
+  "name": " Falo Iraq - فالو عراق",
+  "description": "منصة عراقية احترافية لزيادة المتابعين والتفاعل الاجتماعي مع لوحة تحكم متكاملة ونظام نقاط ذكي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
